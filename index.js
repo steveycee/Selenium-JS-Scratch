@@ -11,5 +11,5 @@ async function example() {
     console.log('Test Passed')
 }
 
-//Calls the function
+//Calls the function.
 example();
