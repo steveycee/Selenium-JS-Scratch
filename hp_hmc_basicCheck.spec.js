@@ -59,11 +59,10 @@ async function example() {
             });
 
 
-        // await driver.getCurrentUrl();
     
     }
     finally{
-        // await driver.quit();
+        await driver.quit();
     }
 }
 
